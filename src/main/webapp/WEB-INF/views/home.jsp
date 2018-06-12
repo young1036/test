@@ -5,10 +5,8 @@
 	<title>Home</title>
 </head>
 <body>
-<h1>
-	Hello world!  
-</h1>
 
 <P>  The time on the server is ${serverTime}. </P>
+<P>  WELCOME TO MY WORLD TO SSOL. </P>
 </body>
 </html>
